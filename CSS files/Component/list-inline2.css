@@ -1,0 +1,33 @@
+.list-inline2   {
+
+
+	padding: 40px ;
+	width: 1100px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-around;
+		
+	list-style-type: none;
+	  height: 200px;
+
+ margin-left: 40px;
+ margin-bottom: 20px;
+
+
+
+}
+
+
+ .list-inline2  h2 {
+
+ 
+ }
+
+
+ .list-inline2 p {
+
+ align-items: center;
+ width: 400px;
+ font-size: 16px;
+ }
+

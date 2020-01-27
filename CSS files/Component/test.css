@@ -1,0 +1,73 @@
+.test  {
+
+
+	padding: 40px ;
+	width: 1100px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-around;
+		
+	list-style-type: none;
+	  height: 200px;
+
+ margin-left: 40px;
+ margin-bottom: 20px;
+
+
+
+}
+
+
+ .test h2 {
+
+ 
+ }
+
+
+ .test p {
+
+ align-items: center;
+ width: 400px;
+ }
+
+
+<dizv>
+
+        
+        
+        <ul class="card" >
+          
+      	   <li>
+             <img class = "avatar" src="Images/presence.jpg"   alt= "Cities where we operate">
+           </li>
+           <li>
+             <h3 id= "marge"> Where are you from? </h3>
+             <p id= text> Here is the map with all of the cities we are operating so far. The bigger the point, the bigger the community of car pooler. We are obviously very confident that we will soon be all around the country and that, no matter where you are, you will be able to take advantage of our services. </p>
+           </li>    
+           
+        
+       	   
+      	   <li>
+      	 	
+      	 	
+      	   <p> <strong> Not operating in your city yet? Let us email you whenever we eventually are. </strong> </p>	
+      	<ul class= "sub-card" >
+      	   	<li>
+      	   	  <p class="sub-card" , id="email"> Enter Email  </p>
+      	   	</li>
+      	   	<li>
+
+      	 
+              <a href="x", class="sub-card", id= "Send"> Request update </a>
+            </li>
+        </ul>
+
+      	 	
+      	 	
+      	 
+      	    </li>
+
+      	 
+        </ul>     
+         
+ 	</div>
